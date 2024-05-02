@@ -11,5 +11,5 @@ So don't hesitate to suggest me improvement in my personal projects.
 
 ## key back projects
 
-- [Integration of a API server with secure user authentication in Node.js, without frameworks](https://github.com/ManonAntigoneDauguet/DragonManual-Back)
+- [Integration of a API server with secure user authentication in Node.js](https://github.com/ManonAntigoneDauguet/DragonManual-Back)
 
